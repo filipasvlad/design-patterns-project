@@ -1,0 +1,17 @@
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\controller\dto\TaskCreateDTO.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\controller\dto\TaskDTO.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\controller\dto\TaskUpdateDTO.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\controller\exceptions\BadCreateTaskException.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\controller\exceptions\BadUpdateTaskException.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\controller\TaskController.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\converter\TaskConverter.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\dao\Employee.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\dao\EmployeeRepository.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\dao\Task.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\dao\TaskPriority.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\dao\TaskRepository.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\dao\TaskStatus.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\observer\ObservedSubject.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\observer\Observer.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\service\TaskService.java
+C:\Users\filip\OneDrive\Desktop\New folder\src\main\java\org\example\taskmanager\TaskManagerApplication.java
